@@ -1,0 +1,7 @@
+flask_sqlalchemy
+flask
+gunicorn
+flask-jwt-extended
+flask-login
+bcrypt
+psycopg2
