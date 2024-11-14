@@ -41,6 +41,8 @@ Here’s what this bad boy can do:
 
 Get yourself set up with **Reverse Job Board** in just a few steps. We’re going full throttle!
 
+![Example Screenshot](https://github.com/ModelSettlers/jsrb/blob/main/example_screenshot.png?raw=true)
+
 ### Prerequisites
 
 Before you get started, make sure you have:
